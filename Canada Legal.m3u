@@ -5,19 +5,19 @@ https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:0 tvg-id="RDI (News)-CA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/Icirdi_logocablo_ver_rvb-web.png",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:0 tvg-id="Tele-Quebec (CIVM) Montreal-CA" tvg-logo="https://static.iptv-epg.com/ca/TeleQuebec.ca.png",Tele-Quebec
+#EXTINF:0 tvg-id="Tele-Quebec (CIVM) Montreal-CA" tvg-logo="https://www.iabcanada.com/content/uploads/2016/10/Tele-Quebec-1024x735.jpg",Tele-Quebec
 https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/6150020952001/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/ca/ICITelevisionMontreal.ca.png",ICI Tele
+#EXTINF:0 tvg-logo="https://s.tou.tv/images/parcourir/web/parcourir_chaine_tele.jpg",ICI Tele
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
-#EXTINF:0 tvg-id="TVA (CFTM) Montréal-CA" tvg-logo="https://static.iptv-epg.com/ca/TVA.ca.png",TVA
+#EXTINF:0 tvg-id="TVA (CFTM) MontrÃ©al-CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png",TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
 #EXTINF:0 tvg-id="LCN-CA" tvg-logo="https://static.iptv-epg.com/ca/LeCanalNouvelles.ca.png",LCN
 https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/ca/VTele.ca.png",V Tele
+#EXTINF:0 tvg-logo="https://noeldansleparc.com/wp-content/uploads/2018/11/logo-vtele.png",V Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
-#EXTINF:0 tvg-id="CA-Canal Savoir" tvg-logo="https://static.iptv-epg.com/ca/CanalSavoir.ca.png",Canal Savoir
+#EXTINF:0 tvg-id="CA-Canal Savoir" tvg-logo="https://histart.umontreal.ca/public/FAS/histoire_art_etudes_cinematographiques/Images/Headers/csm_canalsavoirvideo_ead2e1f254.jpg",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/ca/AssembleeNationale.ca.png",Lassemble National
+#EXTINF:0 tvg-logo="https://www.secretaire-inc.com/wp-content/uploads/2019/04/a49ce3509762d508b05742ade612a70b_.jpeg",Lassemble National
 http://diffusionm4.assnat.qc.ca/canal10/250.sdp/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/730796141969707009/zqOoRgqF.jpg",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
@@ -27,7 +27,7 @@ http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:0 tvg-id="Miracle Network-CA" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/miracle_cjil_2016.png",Miracle Channel
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.iptv-epg.com/ca/NTVCJON.ca.png",NTV Newfoundland
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/CJON-TV.PNG",NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/83d84a4f6a5ad425ede92abe132eb894058cdfb9be5650a93e757dcfa86da034.png",QVTV
 https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
