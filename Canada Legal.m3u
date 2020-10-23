@@ -11,7 +11,7 @@ https://bcovlive-a.akamaihd.net/86e93a0ab79047e1b216e2b0a1ac5363/us-east-1/61500
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:0 tvg-id="TVA (CFTM) Montréal-CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png",TVA
 https://tvalive.akamaized.net/hls/live/2012413/tva01/master.m3u8
-#EXTINF:0 tvg-id="LCN-CA" tvg-logo="https://static.iptv-epg.com/ca/LeCanalNouvelles.ca.png",LCN
+#EXTINF:0 tvg-id="LCN-CA" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/tva-nouvelles.jpg",LCN
 https://tvalcn.akamaized.net/hls/live/2013847/tvalcn01/med_720p/med_720p.m3u8
 #EXTINF:0 tvg-logo="https://noeldansleparc.com/wp-content/uploads/2018/11/logo-vtele.png",V Tele
 https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
