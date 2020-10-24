@@ -19,7 +19,7 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.mymp3tracks.com/uploads/news/5ca51be912bd4214878995.png",DBM
 https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
-#EXTINF:0 tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61-5K6QDrnL.png",Euronews English
+#EXTINF:0 tvg-logo="https://straume.mstatic.lv/mlmt/images/straume_channel_logos/euronews_en_800x600.jpg",Euronews English
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-6.png",Fashion TV L'Original
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
