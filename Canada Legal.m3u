@@ -35,3 +35,9 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:0 tvg-logo="https://saltandlighttv.org/images/logo/slcmf_en_s.png",Salt + Light Television
 http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:0 tvg-logo="https://static-media.streema.com/media/cache/e0/70/e07042e62f068eda0edc2a4bd5e0e6d2.jpg",730 Montréal
+http://cogecomedia.leanstream.co/CKACAM-MP3
+#EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/ckoi-logo-png-transparent.png",96.9 CKOI
+http://cogecomedia.leanstream.co/CKOIFM-MP3
+#EXTINF:0 tvg-logo="https://cdn.cogecolive.com/prod-20190909/podcast_1568025926457907_ori.jpeg",98,5FM Montréal
+http://cogecomedia.leanstream.co/CHMPFM-MP3
